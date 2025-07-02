@@ -1,4 +1,4 @@
-# TinkerBot-Arm: 5-DOF Robotic Arm Simulation
+5-DOF Robotic Arm Simulation
 
 This project showcases a 3D model of a 5 Degrees of Freedom (DOF) robotic arm designed using Tinkercad. It serves as a simple educational prototype for understanding the mechanics and structure of articulated robotic arms commonly used in automation, pick-and-place systems, and robotics learning environments.
 
